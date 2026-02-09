@@ -1,0 +1,6 @@
+Model,Accuracy,F1-score,Inference_Time_ms,Model_Size_MB,Training_Time_hrs,TOPSIS_Score,Rank
+DistilBERT,0.9,0.89,25,250,4,0.72,1
+ALBERT,0.91,0.9,30,220,5,0.65,2
+BERT,0.92,0.91,45,420,6,0.61,3
+RoBERTa,0.94,0.93,50,500,7,0.58,4
+XLNet,0.93,0.92,55,480,8,0.54,5
